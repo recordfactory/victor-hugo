@@ -16,4 +16,5 @@ fields:
     schema:
       format: html-blocks
 pages:
+- site/content/menu.md
 - site/content/home.md
