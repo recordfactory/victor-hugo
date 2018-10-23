@@ -7,3 +7,6 @@ fields:
 - type: text
   name: menu
   label: Menu
+- type: text
+  label: menuentry
+  name: menuentry
